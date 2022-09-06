@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="aopalliance-repackaged-2.4.0-b25">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/aopalliance-repackaged-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/hk2-api-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/hk2-locator-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/hk2-utils-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/javax.inject-2.4.0-b25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-client-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-common-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-container-servlet-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-container-servlet-core-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-guava-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-media-jaxb-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/jersey-server-2.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/jerseyjars_maven/validation-api-1.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
